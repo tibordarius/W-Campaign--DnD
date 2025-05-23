@@ -1,0 +1,364 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": "300",
+    "embed_model": {
+      "model_key": "text-embedding-3-large",
+      "None": {},
+      "text-embedding-3-large": {
+        "api_key": "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",
+        "min_chars": 100
+      }
+    },
+    "embed_model_key": "TaylorAI/bge-micro-v2"
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": "300",
+    "embed_model": {
+      "adapter": "openai",
+      "transformers": {
+        "legacy_transformers": true,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "model_key": "text-embedding-3-large",
+      "legacy_transformers": true,
+      "TaylorAI/bge-micro-v2": {},
+      "text-embedding-3-large-256": {
+        "api_key": "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",
+        "min_chars": 150
+      },
+      "text-embedding-3-large": {
+        "api_key": "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",
+        "min_chars": 0
+      },
+      "openai": {
+        "model_key": "text-embedding-ada-002",
+        "api_key": "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"
+      },
+      "text-embedding-ada-002": {}
+    },
+    "smart_change": {
+      "active": true
+    }
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "results_limit": "20"
+  },
+  "new_user": false,
+  "chat_folder": "smart chat",
+  "smart_sources_embed_model": "TaylorAI/bge-micro-v2",
+  "smart_blocks_embed_model": "None",
+  "smart_connections_folder": ".smart-env",
+  "smart_connections_folder_last": ".smart-env",
+  "system_prompts_folder": "smart prompts",
+  "smart_chat_folder": "smart-chats",
+  "smart_chat_folder_last": "smart-chats",
+  "local_embedding_max_tokens": 2048,
+  "embedding_file_per_note": false,
+  "chat_model_platform_key": "open_router",
+  "open_router": {},
+  "embed_input_min_chars": 100,
+  "multi_heading_blocks": true,
+  "enable_mobile": false,
+  "actions": {
+    "lookup": true
+  },
+  "api_key": "",
+  "excluded_headings": "",
+  "show_full_path": false,
+  "expanded_view": true,
+  "language": "en",
+  "log_render": false,
+  "log_render_files": false,
+  "recently_sent_retry_notice": false,
+  "version": "2.1.101",
+  "smart_chats_folder": "smart-chats",
+  "free_chat_uses": 1,
+  "smart_notices": {
+    "muted": {
+      "done_import": true,
+      "loading_collection": true,
+      "done_initial_scan": true,
+      "embedding_complete": true,
+      "new_version_available": true
+    }
+  },
+  "legacy_transformers": false,
+  "smart_directories": {},
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "openai",
+      "openai": {
+        "model_key": "gpt-4o",
+        "api_key": "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",
+        "models": {
+          "gpt-4.5-preview": {
+            "model_name": "gpt-4.5-preview",
+            "id": "gpt-4.5-preview",
+            "multimodal": false,
+            "can_use_tools": true
+          },
+          "gpt-4.5-preview-2025-02-27": {
+            "model_name": "gpt-4.5-preview-2025-02-27",
+            "id": "gpt-4.5-preview-2025-02-27",
+            "multimodal": false,
+            "can_use_tools": true
+          },
+          "gpt-4o-mini-audio-preview-2024-12-17": {
+            "model_name": "gpt-4o-mini-audio-preview-2024-12-17",
+            "id": "gpt-4o-mini-audio-preview-2024-12-17",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-audio-preview-2024-10-01": {
+            "model_name": "gpt-4o-audio-preview-2024-10-01",
+            "id": "gpt-4o-audio-preview-2024-10-01",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-audio-preview": {
+            "model_name": "gpt-4o-audio-preview",
+            "id": "gpt-4o-audio-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-mini-realtime-preview-2024-12-17": {
+            "model_name": "gpt-4o-mini-realtime-preview-2024-12-17",
+            "id": "gpt-4o-mini-realtime-preview-2024-12-17",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-mini-realtime-preview": {
+            "model_name": "gpt-4o-mini-realtime-preview",
+            "id": "gpt-4o-mini-realtime-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4-turbo-preview": {
+            "model_name": "gpt-4-turbo-preview",
+            "id": "gpt-4-turbo-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "o1-mini-2024-09-12": {
+            "model_name": "o1-mini-2024-09-12",
+            "id": "o1-mini-2024-09-12",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "o1-preview-2024-09-12": {
+            "model_name": "o1-preview-2024-09-12",
+            "id": "o1-preview-2024-09-12",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "o1-mini": {
+            "model_name": "o1-mini",
+            "id": "o1-mini",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "gpt-4-0125-preview": {
+            "model_name": "gpt-4-0125-preview",
+            "id": "gpt-4-0125-preview",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "o1-preview": {
+            "model_name": "o1-preview",
+            "id": "o1-preview",
+            "multimodal": false,
+            "can_use_tools": false
+          },
+          "gpt-4o-mini-audio-preview": {
+            "model_name": "gpt-4o-mini-audio-preview",
+            "id": "gpt-4o-mini-audio-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4-turbo": {
+            "model_name": "gpt-4-turbo",
+            "id": "gpt-4-turbo",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-realtime-preview-2024-10-01": {
+            "model_name": "gpt-4o-realtime-preview-2024-10-01",
+            "id": "gpt-4o-realtime-preview-2024-10-01",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4": {
+            "model_name": "gpt-4",
+            "id": "gpt-4",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 8192,
+            "description": "context: 8192, output: 8192"
+          },
+          "gpt-4o-audio-preview-2024-12-17": {
+            "model_name": "gpt-4o-audio-preview-2024-12-17",
+            "id": "gpt-4o-audio-preview-2024-12-17",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4-turbo-2024-04-09": {
+            "model_name": "gpt-4-turbo-2024-04-09",
+            "id": "gpt-4-turbo-2024-04-09",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-3.5-turbo-1106": {
+            "model_name": "gpt-3.5-turbo-1106",
+            "id": "gpt-3.5-turbo-1106",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 4096"
+          },
+          "gpt-4o-2024-11-20": {
+            "model_name": "gpt-4o-2024-11-20",
+            "id": "gpt-4o-2024-11-20",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-3.5-turbo-0125": {
+            "model_name": "gpt-3.5-turbo-0125",
+            "id": "gpt-3.5-turbo-0125",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 4096"
+          },
+          "gpt-4o-realtime-preview-2024-12-17": {
+            "model_name": "gpt-4o-realtime-preview-2024-12-17",
+            "id": "gpt-4o-realtime-preview-2024-12-17",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-3.5-turbo": {
+            "model_name": "gpt-3.5-turbo",
+            "id": "gpt-3.5-turbo",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 4096"
+          },
+          "gpt-4o-realtime-preview": {
+            "model_name": "gpt-4o-realtime-preview",
+            "id": "gpt-4o-realtime-preview",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-3.5-turbo-16k": {
+            "model_name": "gpt-3.5-turbo-16k",
+            "id": "gpt-3.5-turbo-16k",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 16385,
+            "description": "context: 16385, output: 16385"
+          },
+          "gpt-4-1106-preview": {
+            "model_name": "gpt-4-1106-preview",
+            "id": "gpt-4-1106-preview",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4-0613": {
+            "model_name": "gpt-4-0613",
+            "id": "gpt-4-0613",
+            "multimodal": false,
+            "can_use_tools": true,
+            "max_input_tokens": 8192,
+            "description": "context: 8192, output: 8192"
+          },
+          "gpt-4o-mini-2024-07-18": {
+            "model_name": "gpt-4o-mini-2024-07-18",
+            "id": "gpt-4o-mini-2024-07-18",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-2024-05-13": {
+            "model_name": "gpt-4o-2024-05-13",
+            "id": "gpt-4o-2024-05-13",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-mini": {
+            "model_name": "gpt-4o-mini",
+            "id": "gpt-4o-mini",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o-2024-08-06": {
+            "model_name": "gpt-4o-2024-08-06",
+            "id": "gpt-4o-2024-08-06",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          },
+          "gpt-4o": {
+            "model_name": "gpt-4o",
+            "id": "gpt-4o",
+            "multimodal": true,
+            "can_use_tools": true,
+            "max_input_tokens": 128000,
+            "description": "context: 128000, output: 4096"
+          }
+        }
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "en",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": false
+  }
+}

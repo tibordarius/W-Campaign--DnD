@@ -1,0 +1,524 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1744975348913.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1744975348913,
+  "responses": {
+    "chatcmpl-BNe5pnHycyIKm6LHIIB8yT1Suarq7": {
+      "id": "chatcmpl-BNe5pnHycyIKm6LHIIB8yT1Suarq7",
+      "object": "chat.completion",
+      "created": 1744975361,
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": null,
+            "tool_calls": [
+              {
+                "id": "call_JhwJhVAnRtNQV2hOf63IoQ0w",
+                "type": "function",
+                "function": {
+                  "name": "lookup",
+                  "arguments": "{\"hypotheticals\":{\"1\":\"A young hero embarks on a quest to find a legendary artifact that can save their world from an impending doom. Along the way, they gather a group of diverse allies, each with their own unique skills and backgrounds, to help overcome various challenges and enemies.\",\"2\":\"In a dystopian future, a group of rebels fights against a tyrannical government that uses advanced technology to control the population. The protagonist, a former government agent, joins the rebels after discovering the truth about the regime's oppressive tactics.\",\"3\":\"A detective is drawn into a complex web of intrigue and deception as they investigate a series of mysterious disappearances in a small town. As they dig deeper, they uncover a conspiracy involving powerful local figures and must navigate dangerous waters to bring the truth to light.\"}}"
+                }
+              }
+            ]
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 99,
+        "completion_tokens": 165,
+        "total_tokens": 264,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw": {
+        "id": "chatcmpl-BNe5pnHycyIKm6LHIIB8yT1Suarq7",
+        "object": "chat.completion",
+        "created": 1744975361,
+        "model": "gpt-4o-2024-08-06",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": null,
+              "tool_calls": [
+                {
+                  "id": "call_JhwJhVAnRtNQV2hOf63IoQ0w",
+                  "type": "function",
+                  "function": {
+                    "name": "lookup",
+                    "arguments": "{\"hypotheticals\":{\"1\":\"A young hero embarks on a quest to find a legendary artifact that can save their world from an impending doom. Along the way, they gather a group of diverse allies, each with their own unique skills and backgrounds, to help overcome various challenges and enemies.\",\"2\":\"In a dystopian future, a group of rebels fights against a tyrannical government that uses advanced technology to control the population. The protagonist, a former government agent, joins the rebels after discovering the truth about the regime's oppressive tactics.\",\"3\":\"A detective is drawn into a complex web of intrigue and deception as they investigate a series of mysterious disappearances in a small town. As they dig deeper, they uncover a conspiracy involving powerful local figures and must navigate dangerous waters to bring the truth to light.\"}}"
+                  }
+                }
+              ],
+              "refusal": null,
+              "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 99,
+          "completion_tokens": 165,
+          "total_tokens": 264,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "service_tier": "default",
+        "system_fingerprint": "fp_f5bdcc3276"
+      }
+    },
+    "chatcmpl-BNe5udzU9pFrc3fudFrVdGpr7lNjb": {
+      "id": "chatcmpl-BNe5udzU9pFrc3fudFrVdGpr7lNjb",
+      "object": "chat.completion",
+      "created": null,
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Based on your notes, the overarching plot revolves around a grand treasure hunt. The seas are said to whisper of a legendary treasure, its location divided among four ancient relics. Each relic acts as a key, with inscriptions revealing parts of a map leading to the treasure. These relics are zealously guarded by powerful factions, each with their own motivations for keeping them hidden.\n\nThe party must navigate through a world of power, deception, and adventure, forging alliances with pirate captains, infiltrating strongholds, and unraveling webs of lies. The journey begins with the discovery of the first clue, leading the party into factional conflicts, dangerous seas, and forgotten ruins. The path is fraught with peril, including threats from the Abyssal Cult, pirates, and other forces.\n\nThroughout the campaign, players will face difficult choices that will shape their path and alliances. The campaign culminates in a grand finale where all factions converge on the treasure's final resting place, forcing players to decide whether to keep the treasure, destroy it, or use it to reshape the world. Their journey will leave a lasting impact on the world's seas."
+          }
+        }
+      ],
+      "usage": {},
+      "raw": {
+        "id": "chatcmpl-BNe5udzU9pFrc3fudFrVdGpr7lNjb",
+        "object": "chat.completion",
+        "created": 0,
+        "model": "",
+        "choices": [
+          {
+            "message": {
+              "index": 0,
+              "role": "assistant",
+              "content": "Based on your notes, the overarching plot revolves around a grand treasure hunt. The seas are said to whisper of a legendary treasure, its location divided among four ancient relics. Each relic acts as a key, with inscriptions revealing parts of a map leading to the treasure. These relics are zealously guarded by powerful factions, each with their own motivations for keeping them hidden.\n\nThe party must navigate through a world of power, deception, and adventure, forging alliances with pirate captains, infiltrating strongholds, and unraveling webs of lies. The journey begins with the discovery of the first clue, leading the party into factional conflicts, dangerous seas, and forgotten ruins. The path is fraught with peril, including threats from the Abyssal Cult, pirates, and other forces.\n\nThroughout the campaign, players will face difficult choices that will shape their path and alliances. The campaign culminates in a grand finale where all factions converge on the treasure's final resting place, forcing players to decide whether to keep the treasure, destroy it, or use it to reshape the world. Their journey will leave a lasting impact on the world's seas."
+            }
+          }
+        ],
+        "usage": {}
+      }
+    },
+    "chatcmpl-BNe6feccHvRYjKAG507wMMJSYrqPA": {
+      "id": "chatcmpl-BNe6feccHvRYjKAG507wMMJSYrqPA",
+      "object": "chat.completion",
+      "created": 1744975413,
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": null,
+            "tool_calls": [
+              {
+                "id": "call_lh3vqOTSktRRfn9tIs4LF9U3",
+                "type": "function",
+                "function": {
+                  "name": "lookup",
+                  "arguments": "{\"hypotheticals\":{\"1\":\"The protagonist's journey is intricately connected to a prophecy that foretells the rise of a hero who will unite the fractured kingdoms. Throughout their quest, they encounter various characters who are unknowingly linked to this prophecy, each playing a crucial role in its fulfillment.\",\"2\":\"Several characters in the story are revealed to be related by blood, unbeknownst to them, which adds layers of complexity to their interactions and motivations. These hidden familial ties influence alliances and betrayals as the plot unfolds.\",\"3\":\"The seemingly unrelated events in the narrative are tied together by a secret organization that has been manipulating outcomes from the shadows. Their influence is gradually uncovered as the protagonist pieces together clues, revealing a larger conspiracy at play.\"}}"
+                }
+              }
+            ]
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2136,
+        "completion_tokens": 152,
+        "total_tokens": 2288,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw": {
+        "id": "chatcmpl-BNe6feccHvRYjKAG507wMMJSYrqPA",
+        "object": "chat.completion",
+        "created": 1744975413,
+        "model": "gpt-4o-2024-08-06",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": null,
+              "tool_calls": [
+                {
+                  "id": "call_lh3vqOTSktRRfn9tIs4LF9U3",
+                  "type": "function",
+                  "function": {
+                    "name": "lookup",
+                    "arguments": "{\"hypotheticals\":{\"1\":\"The protagonist's journey is intricately connected to a prophecy that foretells the rise of a hero who will unite the fractured kingdoms. Throughout their quest, they encounter various characters who are unknowingly linked to this prophecy, each playing a crucial role in its fulfillment.\",\"2\":\"Several characters in the story are revealed to be related by blood, unbeknownst to them, which adds layers of complexity to their interactions and motivations. These hidden familial ties influence alliances and betrayals as the plot unfolds.\",\"3\":\"The seemingly unrelated events in the narrative are tied together by a secret organization that has been manipulating outcomes from the shadows. Their influence is gradually uncovered as the protagonist pieces together clues, revealing a larger conspiracy at play.\"}}"
+                  }
+                }
+              ],
+              "refusal": null,
+              "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 2136,
+          "completion_tokens": 152,
+          "total_tokens": 2288,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "service_tier": "default",
+        "system_fingerprint": "fp_f5bdcc3276"
+      }
+    }
+  },
+  "messages": {
+    "user-1-1744975379740-1": 1,
+    "assistant-2-1744975383240-1": 2,
+    "tool-3-1": 3,
+    "assistant-4-1744975386137-1": 4,
+    "user-5-1744975431794-1": 5,
+    "assistant-6-1744975434917-1": 6,
+    "tool-7-1": 7
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1744975348913",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1744975348913",
+      "content": [
+        {
+          "type": "text",
+          "text": "Based on my notes wha tis the overaching plot"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1744975379740-1",
+      "context": {
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1744975379740-1",
+      "key": "Untitled 1744975348913#user-1-1744975379740-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1744975348913",
+      "content": null,
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_JhwJhVAnRtNQV2hOf63IoQ0w",
+          "type": "function",
+          "function": {
+            "name": "lookup",
+            "arguments": "{\"hypotheticals\":{\"1\":\"A young hero embarks on a quest to find a legendary artifact that can save their world from an impending doom. Along the way, they gather a group of diverse allies, each with their own unique skills and backgrounds, to help overcome various challenges and enemies.\",\"2\":\"In a dystopian future, a group of rebels fights against a tyrannical government that uses advanced technology to control the population. The protagonist, a former government agent, joins the rebels after discovering the truth about the regime's oppressive tactics.\",\"3\":\"A detective is drawn into a complex web of intrigue and deception as they investigate a series of mysterious disappearances in a small town. As they dig deeper, they uncover a conspiracy involving powerful local figures and must navigate dangerous waters to bring the truth to light.\"}}"
+          }
+        }
+      ],
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1744975383240-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-BNe5pnHycyIKm6LHIIB8yT1Suarq7",
+      "branch_i": "1744975383240-1",
+      "key": "Untitled 1744975348913#assistant-2-1744975383240-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1744975348913",
+      "content": null,
+      "role": "tool",
+      "tool_calls": null,
+      "tool_call_id": "call_JhwJhVAnRtNQV2hOf63IoQ0w",
+      "msg_i": 3,
+      "id": "tool-3-1",
+      "context": {},
+      "tool_call_output": [
+        {
+          "key": "Whale Campaign/Overarching Plot/The Call to Adventure.md#**The Call to Adventure**#**Introduction to the Treasure Map Relics**#{1}",
+          "score": 0.8329653521987501
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/The Call to Adventure.md#**The Call to Adventure**#**Who Holds the Relics?**#{1}",
+          "score": 0.8318080875746348
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/The Call to Adventure.md#**The Call to Adventure**#**The Beginning of the Hunt**#{1}",
+          "score": 0.8292668213393022
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/Side Quests of the Great Treasure Hunt.md#**[[Side Quests of the Great Treasure Hunt]]**#**Conclusion**#{1}",
+          "score": 0.8285744005483103
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/The Call to Adventure.md#**The Call to Adventure**#**Introduction to the Treasure Map Relics**",
+          "score": 0.8250600411351945
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/Choosing the Path.md#**Choosing the Path**#**Conclusion**#{1}",
+          "score": 0.8243462530080053
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/The Great Treasure Hunt Campaign.md#The Great Treasure Hunt Campaign#Conclusion#{1}",
+          "score": 0.8242527746209688
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/Side Quests of the Great Treasure Hunt.md#**[[Side Quests of the Great Treasure Hunt]]**#**Conclusion**",
+          "score": 0.8219696073185125
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/The Call to Adventure.md#**The Call to Adventure**#**The Beginning of the Hunt**",
+          "score": 0.8211631854512959
+        },
+        {
+          "key": "Whale Campaign/Side Quest's/SideQ/Quests/Pop Culture Encounters.md##Overview#**Encounter 5: The Golden Trio**#**Objectives**:#{1}",
+          "score": 0.8198889647771667
+        }
+      ],
+      "class_name": "SmartMessage",
+      "tool_name": "lookup",
+      "response_id": "call_JhwJhVAnRtNQV2hOf63IoQ0w",
+      "key": "Untitled 1744975348913#tool-3-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1744975348913",
+      "content": "Based on your notes, the overarching plot revolves around a grand treasure hunt. The seas are said to whisper of a legendary treasure, its location divided among four ancient relics. Each relic acts as a key, with inscriptions revealing parts of a map leading to the treasure. These relics are zealously guarded by powerful factions, each with their own motivations for keeping them hidden.\n\nThe party must navigate through a world of power, deception, and adventure, forging alliances with pirate captains, infiltrating strongholds, and unraveling webs of lies. The journey begins with the discovery of the first clue, leading the party into factional conflicts, dangerous seas, and forgotten ruins. The path is fraught with peril, including threats from the Abyssal Cult, pirates, and other forces.\n\nThroughout the campaign, players will face difficult choices that will shape their path and alliances. The campaign culminates in a grand finale where all factions converge on the treasure's final resting place, forcing players to decide whether to keep the treasure, destroy it, or use it to reshape the world. Their journey will leave a lasting impact on the world's seas.",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 4,
+      "id": "assistant-4-1744975386137-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-BNe5udzU9pFrc3fudFrVdGpr7lNjb",
+      "branch_i": "1744975386137-1",
+      "key": "Untitled 1744975348913#assistant-4-1744975386137-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1744975348913",
+      "content": [
+        {
+          "type": "text",
+          "text": "Based on my notes tell me about all the underlaying connections"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 5,
+      "id": "user-5-1744975431794-1",
+      "context": {
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1744975431794-1",
+      "key": "Untitled 1744975348913#user-5-1744975431794-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1744975348913",
+      "content": null,
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_lh3vqOTSktRRfn9tIs4LF9U3",
+          "type": "function",
+          "function": {
+            "name": "lookup",
+            "arguments": "{\"hypotheticals\":{\"1\":\"The protagonist's journey is intricately connected to a prophecy that foretells the rise of a hero who will unite the fractured kingdoms. Throughout their quest, they encounter various characters who are unknowingly linked to this prophecy, each playing a crucial role in its fulfillment.\",\"2\":\"Several characters in the story are revealed to be related by blood, unbeknownst to them, which adds layers of complexity to their interactions and motivations. These hidden familial ties influence alliances and betrayals as the plot unfolds.\",\"3\":\"The seemingly unrelated events in the narrative are tied together by a secret organization that has been manipulating outcomes from the shadows. Their influence is gradually uncovered as the protagonist pieces together clues, revealing a larger conspiracy at play.\"}}"
+          }
+        }
+      ],
+      "tool_call_id": null,
+      "msg_i": 6,
+      "id": "assistant-6-1744975434917-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-BNe6feccHvRYjKAG507wMMJSYrqPA",
+      "branch_i": "1744975434917-1",
+      "key": "Untitled 1744975348913#assistant-6-1744975434917-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1744975348913",
+      "content": null,
+      "role": "tool",
+      "tool_calls": null,
+      "tool_call_id": "call_lh3vqOTSktRRfn9tIs4LF9U3",
+      "msg_i": 7,
+      "id": "tool-7-1",
+      "context": {},
+      "tool_call_output": [
+        {
+          "key": "Whale Campaign/Overarching Plot/Choosing the Path.md#**Choosing the Path**#**[[Travel Encounters]]**#**Espionage & Subterfuge**#{1}",
+          "score": 0.8365052931606765
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/Choosing the Path.md#**Choosing the Path**#**Conclusion**#{1}",
+          "score": 0.8362149183939556
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/Choosing the Path.md#**Choosing the Path**#**Conclusion**",
+          "score": 0.8305197175898121
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/Travel Encounters.md#**Travel Encounters**#**Conclusion**#{1}",
+          "score": 0.8284722497832179
+        },
+        {
+          "key": "Whale Campaign/Side Quest's/SideQ/Quests/Side Quests in the Campaign.md##Overview#**Foreshadowing Future Conflicts**#{1}",
+          "score": 0.8252455360601081
+        },
+        {
+          "key": "Overview of Adventure Stages and Possible Paths.md#Overview of Adventure Stages and Possible Paths#**Stage 4: Hidden Threats Revealed**#**Key Events**#{1}",
+          "score": 0.8249792052269487
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/The Great Treasure Hunt Campaign.md#The Great Treasure Hunt Campaign#Conclusion#{1}",
+          "score": 0.8228995427698299
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/Travel Encounters.md#**Travel Encounters**#**Conclusion**",
+          "score": 0.8226181274154006
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/Choosing the Path.md#**Choosing the Path**#**[[Travel Encounters]]**#{1}",
+          "score": 0.8223571939461146
+        },
+        {
+          "key": "Whale Campaign/Overarching Plot/The Call to Adventure.md#**The Call to Adventure**#**Who Holds the Relics?**#{1}",
+          "score": 0.8222690174744706
+        }
+      ],
+      "class_name": "SmartMessage",
+      "tool_name": "lookup",
+      "response_id": "call_lh3vqOTSktRRfn9tIs4LF9U3",
+      "key": "Untitled 1744975348913#tool-7-1"
+    }
+  ]
+}

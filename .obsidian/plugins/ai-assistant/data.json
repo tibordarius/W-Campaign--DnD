@@ -1,0 +1,11 @@
+{
+  "mySetting": "default",
+  "openAIapiKey": "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",
+  "anthropicApiKey": "",
+  "modelName": "gpt-4o",
+  "imageModelName": "dall-e-3",
+  "maxTokens": 2500,
+  "replaceSelection": true,
+  "imgFolder": "AiAssistant/Assets",
+  "language": ""
+}

@@ -1,0 +1,16 @@
+{
+  "apiKey": "AIzaSyAHPlcmuvPY12KXEUEJDL-AXf4dFN-bmN0",
+  "chatModelName": "gemini-2.5-flash-preview-04-17",
+  "summaryModelName": "gemini-2.5-pro-preview-03-25",
+  "completionsModelName": "gemini-2.5-flash-preview-04-17",
+  "sendContext": true,
+  "maxContextDepth": 2,
+  "searchGrounding": true,
+  "searchGroundingThreshold": 0.7,
+  "summaryFrontmatterKey": "summary",
+  "userName": "User",
+  "rewriteFiles": true,
+  "chatHistory": true,
+  "historyFolder": "gemini-scribe",
+  "showModelPicker": true
+}

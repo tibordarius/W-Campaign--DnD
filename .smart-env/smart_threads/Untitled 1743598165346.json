@@ -1,0 +1,332 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1743598165346.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1743598165346,
+  "responses": {
+    "chatcmpl-BHropEABxbd2Vyexr8xjkTr5j2P23": {
+      "id": "chatcmpl-BHropEABxbd2Vyexr8xjkTr5j2P23",
+      "object": "chat.completion",
+      "created": null,
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today?"
+          }
+        }
+      ],
+      "usage": {},
+      "raw": {
+        "id": "chatcmpl-BHropEABxbd2Vyexr8xjkTr5j2P23",
+        "object": "chat.completion",
+        "created": 0,
+        "model": "",
+        "choices": [
+          {
+            "message": {
+              "index": 0,
+              "role": "assistant",
+              "content": "Hello! How can I assist you today?"
+            }
+          }
+        ],
+        "usage": {}
+      }
+    },
+    "chatcmpl-BHrp6fez2RfWMdUf6cpWGC4gn3qm9": {
+      "id": "chatcmpl-BHrp6fez2RfWMdUf6cpWGC4gn3qm9",
+      "object": "chat.completion",
+      "created": 1743598172,
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": null,
+            "tool_calls": [
+              {
+                "id": "call_8JBZbEEVljuK7fRdLKkluN6x",
+                "type": "function",
+                "function": {
+                  "name": "lookup",
+                  "arguments": "{\"hypotheticals\":{\"1\":\"A note about your recent project on renewable energy solutions, discussing solar and wind power implementations.\",\"2\":\"A travel itinerary for your upcoming trip to Japan, including destinations like Tokyo, Kyoto, and Osaka.\",\"3\":\"A summary of your favorite books read in 2023, featuring titles like 'The Midnight Library' and 'Atomic Habits'.\"}}"
+                }
+              }
+            ]
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 116,
+        "completion_tokens": 79,
+        "total_tokens": 195,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw": {
+        "id": "chatcmpl-BHrp6fez2RfWMdUf6cpWGC4gn3qm9",
+        "object": "chat.completion",
+        "created": 1743598172,
+        "model": "gpt-4o-2024-08-06",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": null,
+              "tool_calls": [
+                {
+                  "id": "call_8JBZbEEVljuK7fRdLKkluN6x",
+                  "type": "function",
+                  "function": {
+                    "name": "lookup",
+                    "arguments": "{\"hypotheticals\":{\"1\":\"A note about your recent project on renewable energy solutions, discussing solar and wind power implementations.\",\"2\":\"A travel itinerary for your upcoming trip to Japan, including destinations like Tokyo, Kyoto, and Osaka.\",\"3\":\"A summary of your favorite books read in 2023, featuring titles like 'The Midnight Library' and 'Atomic Habits'.\"}}"
+                  }
+                }
+              ],
+              "refusal": null,
+              "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 116,
+          "completion_tokens": 79,
+          "total_tokens": 195,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "service_tier": "default",
+        "system_fingerprint": "fp_898ac29719"
+      }
+    }
+  },
+  "messages": {
+    "user-1-1743598173727-1": 1,
+    "assistant-2-1743598174766-1": 2,
+    "user-3-1743598190840-1": 3,
+    "assistant-4-1743598192874-1": 4,
+    "tool-5-1": 5
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1743598165346",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1743598165346",
+      "content": [
+        {
+          "type": "text",
+          "text": "hi"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1743598173727-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1743598173727-1",
+      "key": "Untitled 1743598165346#user-1-1743598173727-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1743598165346",
+      "content": "Hello! How can I assist you today?",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1743598174766-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-BHropEABxbd2Vyexr8xjkTr5j2P23",
+      "branch_i": "1743598174766-1",
+      "key": "Untitled 1743598165346#assistant-2-1743598174766-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1743598165346",
+      "content": [
+        {
+          "type": "text",
+          "text": "waht can youy tell me about my vault"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 3,
+      "id": "user-3-1743598190840-1",
+      "context": {
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1743598190840-1",
+      "key": "Untitled 1743598165346#user-3-1743598190840-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1743598165346",
+      "content": null,
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_8JBZbEEVljuK7fRdLKkluN6x",
+          "type": "function",
+          "function": {
+            "name": "lookup",
+            "arguments": "{\"hypotheticals\":{\"1\":\"A note about your recent project on renewable energy solutions, discussing solar and wind power implementations.\",\"2\":\"A travel itinerary for your upcoming trip to Japan, including destinations like Tokyo, Kyoto, and Osaka.\",\"3\":\"A summary of your favorite books read in 2023, featuring titles like 'The Midnight Library' and 'Atomic Habits'.\"}}"
+          }
+        }
+      ],
+      "tool_call_id": null,
+      "msg_i": 4,
+      "id": "assistant-4-1743598192874-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-BHrp6fez2RfWMdUf6cpWGC4gn3qm9",
+      "branch_i": "1743598192874-1",
+      "key": "Untitled 1743598165346#assistant-4-1743598192874-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1743598165346",
+      "content": null,
+      "role": "tool",
+      "tool_calls": null,
+      "tool_call_id": "call_8JBZbEEVljuK7fRdLKkluN6x",
+      "msg_i": 5,
+      "id": "tool-5-1",
+      "context": {},
+      "tool_call_output": [
+        {
+          "key": "Whale Campaign/Side Quest's/SideQ/The Memory of the Drowned.md#**The Memory of the Drowned** – Nautical Campaign Outline _(Forgotten Realms)_#**Multiple Endings & Campaign Evolution** – _The Seas Shaped by the Heroes_#{7}",
+          "score": 0.7463642576481876
+        },
+        {
+          "key": "Whale Campaign/Side Quest's/SideQ/The Memory of the Drowned.md#**The Memory of the Drowned** – Nautical Campaign Outline _(Forgotten Realms)_#**Multiple Endings & Campaign Evolution** – _The Seas Shaped by the Heroes_#{1}",
+          "score": 0.7327789723718389
+        },
+        {
+          "key": "Whale Campaign/Side Quest's/SideQ/The Memory of the Drowned.md#**The Memory of the Drowned** – Nautical Campaign Outline _(Forgotten Realms)_#**Introduction** – _Whispers in the Whalebones_#{1}",
+          "score": 0.7301812929841609
+        },
+        {
+          "key": "Whale Campaign/Side Quest's/SideQ/The Memory of the Drowned.md#**The Memory of the Drowned** – Nautical Campaign Outline _(Forgotten Realms)_#**Multiple Endings & Campaign Evolution** – _The Seas Shaped by the Heroes_",
+          "score": 0.729134909272133
+        },
+        {
+          "key": "Whale Campaign/Side Quest's/SideQ/The Curse of the Azure Kraken.md#**Quest Title: \"The Curse of the Azure Kraken\"**#**Adventure Themes**",
+          "score": 0.7291248026942496
+        },
+        {
+          "key": "Whale Campaign/Side Quest's/SideQ/The Memory of the Drowned.md#**The Memory of the Drowned** – Nautical Campaign Outline _(Forgotten Realms)_#**Multiple Endings & Campaign Evolution** – _The Seas Shaped by the Heroes_#{5}",
+          "score": 0.7283961500177507
+        },
+        {
+          "key": "Whale Campaign/Side Quest's/SideQ/The Memory of the Drowned.md#**The Memory of the Drowned** – Nautical Campaign Outline _(Forgotten Realms)_#**Introduction** – _Whispers in the Whalebones_#{2}",
+          "score": 0.7268834445410619
+        },
+        {
+          "key": "Whale Campaign/Side Quest's/SideQ/The Memory of the Drowned.md#**The Memory of the Drowned** – Nautical Campaign Outline _(Forgotten Realms)_#**Introduction** – _Whispers in the Whalebones_",
+          "score": 0.7256061904126726
+        },
+        {
+          "key": "Whale Campaign/Sessions/Session 8.1/Quest Update The Secrets of the Whalebones.md##**Following the Shamans Up the Boneway**#{1}",
+          "score": 0.7252866056726318
+        },
+        {
+          "key": "Whale Campaign/Sessions/Session 8.1/Quest Update The Secrets of the Whalebones.md##**Following the Shamans Up the Boneway**#**Abyssal Cult's Arrival**",
+          "score": 0.7249491944596788
+        }
+      ],
+      "class_name": "SmartMessage",
+      "tool_name": "lookup",
+      "response_id": "call_8JBZbEEVljuK7fRdLKkluN6x",
+      "key": "Untitled 1743598165346#tool-5-1"
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "mapMarkers": [
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1731840239174,
+      "markers": [
+        {
+          "id": "ID_498b8b0929e9",
+          "type": "default",
+          "loc": [
+            4145.666656494141,
+            4608.166795821963
+          ],
+          "link": "Waterdeep",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FSwordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Waterdeep: City of Splendour.\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b0bca180aeb",
+          "type": "default",
+          "loc": [
+            5241.546924219979,
+            4061.613746363587
+          ],
+          "link": "Neverwinter",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FSwordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            6.3711588178252345,
+            -12.706780422351464
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bfa19a8e989",
+          "type": "default",
+          "loc": [
+            2329.625015258789,
+            5351.327205463282
+          ],
+          "link": "Baldur's Gate",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FSwordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9b9189a8909",
+          "type": "default",
+          "loc": [
+            4139.167344454219,
+            2606.2388149371272
+          ],
+          "link": "Ruathym",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FSwordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28a99918183a",
+          "type": "default",
+          "loc": [
+            5268.063374566507,
+            2763.7518457634674
+          ],
+          "link": "Gundarlun",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FSwordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbf9eb18994a",
+          "type": "default",
+          "loc": [
+            5371.183109893015,
+            1522.6247066567964
+          ],
+          "link": "The Purple Rocks",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FSwordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            76.42978919689017,
+            -416.6735988280642
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8087b184afb",
+          "type": "default",
+          "loc": [
+            5705.703544757617,
+            3942.904146660074
+          ],
+          "link": "Luskan",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FSwordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9aa193a29e8",
+          "type": "default",
+          "loc": [
+            6396.016653181713,
+            2279.6502674739736
+          ],
+          "link": "OOS Research Station",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FSwordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            114.429503622223,
+            -496.1758373377329
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4949ca18e82b",
+          "type": "default",
+          "loc": [
+            4495.3136253522725,
+            1940.3010075758866
+          ],
+          "link": "Shipwrecks and Side Quests",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FSwordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9da5a48ab28",
+          "type": "default",
+          "loc": [
+            4512.2840154672585,
+            4301.094905241871
+          ],
+          "link": "ThornHold",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c92b4b4b28fa",
+          "type": "default",
+          "loc": [
+            4157.666687011719,
+            3492.3333129882812
+          ],
+          "link": "The Whalebones",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b795a0b0b1a",
+          "type": "default",
+          "loc": [
+            6092.903402451837,
+            1029.5474734076133
+          ],
+          "link": "Tuern",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bb88b88aa59",
+          "type": "default",
+          "loc": [
+            3150.6668701171875,
+            4188.0001220703125
+          ],
+          "link": "Mintarn",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9dbeab80a2a",
+          "type": "default",
+          "loc": [
+            3376,
+            4116
+          ],
+          "link": "Skadaurak",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b79782ba80a",
+          "type": "default",
+          "loc": [
+            2709.999755859375,
+            3638.6666259765625
+          ],
+          "link": "Alaron",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca8b8bfb1b59",
+          "type": "default",
+          "loc": [
+            2177.8888860545667,
+            3675.0694139088946
+          ],
+          "link": "Snowdown",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bdae82968c9",
+          "type": "default",
+          "loc": [
+            2449.9996337890625,
+            3316
+          ],
+          "link": "Gwynneth",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bebcbaa7818",
+          "type": "default",
+          "loc": [
+            2635.9996337890625,
+            3072
+          ],
+          "link": "Oman Isle",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8ba89093a5a",
+          "type": "default",
+          "loc": [
+            2334.6666259765625,
+            2814.6666259765625
+          ],
+          "link": "Moray",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a7a8a8a9b58",
+          "type": "default",
+          "loc": [
+            2842.6666259765625,
+            2814
+          ],
+          "link": "Norland",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d99889cb39ca",
+          "type": "default",
+          "loc": [
+            3678.3695620491662,
+            3637.3572824236007
+          ],
+          "link": "Korinn Archipelago",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89ea0878e9f8",
+          "type": "default",
+          "loc": [
+            3981.482640145551,
+            3152.753492594917
+          ],
+          "link": "Northlander Isles ",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_296babd85bab",
+          "type": "default",
+          "loc": [
+            790.666748046875,
+            4378.848944913665
+          ],
+          "link": "The Nelanther Isles",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_184b3a895829",
+          "type": "default",
+          "loc": [
+            3318.6877688243662,
+            1761.8767707104025
+          ],
+          "link": "Wave Rocks",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b958b9d9c909",
+          "type": "default",
+          "loc": [
+            2298.5683282880764,
+            2524.609342894789
+          ],
+          "link": "Sunset",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b928e9bb199a",
+          "type": "default",
+          "loc": [
+            1797.9367272080008,
+            1687.3949139699166
+          ],
+          "link": "Gullrocks",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68d95a0b0a69",
+          "type": "default",
+          "loc": [
+            1032.3759005323595,
+            1515.8036108574838
+          ],
+          "link": "The Teeth",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8989a5baac9",
+          "type": "default",
+          "loc": [
+            7061.639778994152,
+            4078.5919138840063
+          ],
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            204.72931959888345,
+            -547.8120555825766
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a2838eb0b19",
+          "type": "default",
+          "loc": [
+            5473.315845600648,
+            1035.2043276571058
+          ],
+          "link": "Stage 1 Entering the Deep-Sea Cave",
+          "layer": "%5B%5BWhale%20Campaign%2FWorld%20Maps%2FThe%20Swordcoast%2FSword-Coast-Map_HighRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Whale Campaign/SwordCoastMap.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
